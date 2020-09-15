@@ -1,0 +1,27 @@
+http://localhost:8000/h2-console/login.do?jsessionid=ddc5dfd286fd6c3d0b06791871dce89c
+
+jdbc:h2:mem:testdb - connect to DB
+
+http://localhost:8000/currency-exchange-value/from/USD/to/INR
+
+https://github.com/PoojaKaushik-ibm/MSbootcamp
+
+http://localhost:8888/limits-service/qa
+
+http://localhost:8180/limits
+
+
+https://github.com/PoojaKaushik-ibm/MSbootcamp
+
+http://localhost:8765/{apllication-name}/{uri}
+http://localhost:8765/currency-exchange-server/currency-exchange/from/USD/to/INR/
+
+https://github.com/PoojaKaushik-ibm/MSbootcamp.git
+https://github.com/PoojaKaushik-ibm/CaseStudy.git
+
+echo "# CaseStudy" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/PoojaKaushik-ibm/CaseStudy.git
+git push -u origin master
